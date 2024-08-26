@@ -1,0 +1,11 @@
+# Ignore all files
+*
+
+# Except files ending with .go
+!*.go
+
+# Except files ending with .txt
+!*.txt
+
+# Ensure to track the .gitignore file itself
+!.gitignore
